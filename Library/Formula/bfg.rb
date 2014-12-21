@@ -1,7 +1,7 @@
 require "formula"
 
 class Bfg < Formula
-  homepage "http://rtyley.github.io/bfg-repo-cleaner/"
+  homepage "https://rtyley.github.io/bfg-repo-cleaner/"
   url "http://repo1.maven.org/maven2/com/madgag/bfg/1.11.8/bfg-1.11.8.jar"
   sha1 "9834ed826f2b3f1da1f28f663e3c5b9cf807ab1e"
 
